@@ -1,0 +1,15 @@
+*.d
+*.o
+*.bin
+*.bin.s
+*.a
+.flags
+.depends
+.objects
+.boptions
+bitvisor.elf
+bitvisor.map
+.vscode/targets.log
+.vscode/dryrun.log
+.vscode/configurationCache.log
+tools/mem-track-test/mem_track_test.exe
